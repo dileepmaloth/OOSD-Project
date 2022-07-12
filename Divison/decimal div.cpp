@@ -1,5 +1,4 @@
-/*----------------   QUESTION - 1              ----------
-  ----------------   MALOTH DILEEP _ 19MA20024    -------   */
+/*------------------   MALOTH DILEEP _ 19MA20024    -------   */
 
 #include <iostream>
 #include <fstream>
